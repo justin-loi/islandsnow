@@ -3,3 +3,10 @@
   border: none;
   box-shadow: none;
 }
+
+.ui.borderless.upper.menu {
+  font-family: 'Helvetica', sans-serif;
+  border: none;
+  box-shadow: none;
+  font-size:14px;
+}
